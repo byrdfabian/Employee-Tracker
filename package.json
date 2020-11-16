@@ -1,0 +1,20 @@
+{
+  "name": "employee-trackerhw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Fabian Byrd",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "console-clear": "^1.1.1",
+    "console.table": "^0.10.0",
+    "express": "^4.17.1",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  }
+}
