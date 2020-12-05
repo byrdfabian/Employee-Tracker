@@ -11,8 +11,13 @@ GIVEN a functioning Content Management System that contains employee, role, and 
 SO THAT I can manage, manuever, and allocate resources through the Command Line
 Where I use the CMS I am able to veiw departments, roles, and employees
 When I want to Creation, Update, or Delete any of the resources I can perform these actions from the Command Line
-```
 
-### Technologies Used
+### Link to Screencastify Demonstration
+https://drive.google.com/file/d/1v-JmNjMEEooKKEIdOJBZu6tzRLm8MF_3/view
+
+#### Screenshot of CLI Application
+![](Assets/employeetrakerscrnsht.png)
+
+#### Technologies Used
 * MySQL
 * Nodejs and npm packages which include MySQL, InquireJS, Console.table, and Chalk
